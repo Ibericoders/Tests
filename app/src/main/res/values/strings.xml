@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Survivor</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_temario">TemarioActivity</string>
+    <string name="title_activity_participantes">ParticipantesActivity</string>
+    <string name="title_activity_profesor">ProfesorActivity</string>
+    <string name="title_activity_empresas">EmpresasActivity</string>
+    <string name="title_activity_noticias">NoticiasActivity</string>
+    <string name="title_activity_proyectos">ProyectosActivity</string>
+    <string name="title_activity_perfil_proyecto">PerfilProyectoActivity</string>
+    <string name="title_activity_icon">IconActivity</string>
+</resources>
