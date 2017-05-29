@@ -64,4 +64,9 @@ public class Proyecto {
     public void setGithub(String github) {
         this.github = github;
     }
+
+    public int antonioNipples (int antonio, int nipples){
+        int result = antonio + nipples;
+        return result;
+    }
 }
